@@ -31,6 +31,7 @@ h1 {
 .data_val {
   display: flex;
   justify-content: space-between;
+  align-items: center;
   width: 60%;
   padding: 0px 9px 0px 9px;
   margin: 0.8rem;
