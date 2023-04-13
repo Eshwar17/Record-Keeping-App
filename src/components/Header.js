@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <div className='header'>
     <h1>
-      Record Keeping Application
+      ite.
     </h1>
     </div>
   )
